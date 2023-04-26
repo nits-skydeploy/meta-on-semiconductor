@@ -3,9 +3,9 @@
 
 /* Define configuration */
 //#define CONFIG_DYNAMIC
-#define CONFIG_STATIC_AR0144_DUAL
+//#define CONFIG_STATIC_AR0144_DUAL
 //#define CONFIG_STATIC_AR0144_SINGLE
-//#define CONFIG_STATIC_AR1335_SINGLE
+#define CONFIG_STATIC_AR1335_SINGLE
 
 &amba {
 	ap1302_osc: ap1302oscillator {
